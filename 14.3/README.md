@@ -1,12 +1,12 @@
 
-**kubectl get configmap kube-root-ca.crt **
+**kubectl get configmap kube-root-ca.crt**
 NAME      |   DATA  | AGE
 ---|---|---
 kube-root-ca.crt |  1    |  7d21h
 
 
 
-** kubectl describe configmap kube-root-ca.crt **  
+**kubectl describe configmap kube-root-ca.crt**  
 Name:         kube-root-ca.crt  
 Namespace:    default  
 Labels:       <none>  

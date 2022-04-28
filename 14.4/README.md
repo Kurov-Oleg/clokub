@@ -19,3 +19,6 @@ metadata:
   uid: 212c9516-88e2-4960-96b8-9d912ab0b2a4  
 secrets:  
 - name: netology-token-v8p2x  
+
+**kubectl delete serviceaccount netology**  
+serviceaccount "netoloogy" deleted

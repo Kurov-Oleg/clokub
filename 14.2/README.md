@@ -9,7 +9,7 @@ pod/14.2-netology-vault unchanged
  import hvac  
 >>> client = hvac.Client(  
 ...     url='http://172.17.0.3:8200',  
-...     token='aiphohTaa0eeHei'   
+...     token='nw4trnmvfz35r3g' 
 ... )  
 >>> client.is_authenticated()  
 True    

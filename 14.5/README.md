@@ -1,2 +1,5 @@
-**kubectl apply -f example-network-policy.yml**
-networkpolicy.networking.k8s.io/test-network-policy created
+**kubectl apply -f example-security-context.yml**
+pod/security-context-demo created  
+
+
+результаты вывода логов на скриншоте.  
